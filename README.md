@@ -1,6 +1,5 @@
 # Veutify Reusable Dialog Message
-
-## Project setup
+### Or you may use different approach this is just my idea. 
 ### Clone this repo then run npm
 ```
 npm install
